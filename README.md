@@ -1,3 +1,10 @@
+Utility to quickly set the brightness on multi-monitor configurations linux. 
+Use:
+* Make the file executable sudo chmod + x yark
+* Start yark
+* Set the slider to the desired level of brightness of the selected monitor
+* Close the window by pressing ESC or click past the window
+
 Утилита для быстрой настройки яркости на мультимониторных конфигурациях linux. </br>
 Использование:
   * Сделать файл исполняемым sudo chmod +x yark
