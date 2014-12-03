@@ -4,6 +4,8 @@ Use:
 * Start yark
 * Set the slider to the desired level of brightness of the selected monitor
 * Close the window by pressing ESC or click past the window
+requirements: python 2.x
+
 
 Утилита для быстрой настройки яркости на мультимониторных конфигурациях linux. </br>
 Использование:
@@ -11,3 +13,4 @@ Use:
   * Запустить yark
   * Установить ползунком нужный уровень яркости на выбранном мониторе
   * Закрыть окно нажатием ESC или щелчком мыши мимо окна
+требования: python 2.x
